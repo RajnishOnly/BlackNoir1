@@ -11,6 +11,7 @@
 🎯 Dart<br>
 📱 Flutter<br>
 📱 Android<br>
+📩 how to reach me: rajnish.sharma1411@gmail.com
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlackNoir1&show_icons=true&locale=en&layout=compact" alt="BlackNoir1" /></p>
